@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PyramidWeb",
   "resources": {
-    "hash": "sha256-IHUXQPJmUTnuwn8wK+jemW1UcffywUEnS784Ry27mFY=",
+    "hash": "sha256-7BfssWciqNGpx1G0s73i6TnYbdl/1aEE6rGWVih6rIk=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.g3u6rvwkzy.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.80yfuu8s6d.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -34,7 +34,7 @@
       "System.Text.Json.yttlmgnlor.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.pdieqf3n5b.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.2qclng3n9y.wasm": "System.Private.CoreLib.wasm",
-      "PyramidWeb.hsjil5fq7w.wasm": "PyramidWeb.wasm",
+      "PyramidWeb.f6elon6lgt.wasm": "PyramidWeb.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.6m0hb3g78a.js": "dotnet.native.js",
       "dotnet.native.zw8ib5pvmp.wasm": "dotnet.native.wasm",
@@ -91,7 +91,7 @@
       "System.Text.Encodings.Web.ivx29nv26m.wasm": "sha256-AhN15vr2qWenxVjQni7HjnZWtKpofXQ2w7I1xkEL+qA=",
       "System.Text.Json.yttlmgnlor.wasm": "sha256-RlCXFidwC5cKsYjYZJRLCRvT3gomNyJhXEd16H4E0ak=",
       "System.Text.RegularExpressions.pdieqf3n5b.wasm": "sha256-jToqZYqmCZNgokuxxTcmPKCo1sb2bxH1HLzeVp3h8ck=",
-      "PyramidWeb.hsjil5fq7w.wasm": "sha256-T/KXcBjSO1LGinMBH4XLN+hyT/cHcPTQY7jvOASaPzI="
+      "PyramidWeb.f6elon6lgt.wasm": "sha256-+VBL3SYc1sPgGlUYVNqHJSXk5ZFTEf574jjcvcU7qno="
     }
   },
   "cacheBootResources": true,
